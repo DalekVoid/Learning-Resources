@@ -21,11 +21,12 @@
 * [Mondas, Arrows, and Idioms](http://homepages.inf.ed.ac.uk/wadler/topics/monads.html)
 * [The Monad.Reader](http://themonadreader.wordpress.com/previous-issues/)
 
-## Online Books(FREE!)
+## Online Books (FREE!)
 * [Real World Haskell](http://book.realworldhaskell.org)
 
 ## Books
 1. Haskell – The craft of Functional Programming
->  3rd edition
->  Simon Thompson
->  ISBN: 978-0-201-88295-7
+
+  3rd edition
+  Simon Thompson
+  ISBN: 978-0-201-88295-7
