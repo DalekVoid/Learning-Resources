@@ -96,10 +96,18 @@
 ## TableView
 - [Swipeable Table View cell](http://www.raywenderlich.com/62435/make-swipeable-table-view-cell-actions-without-going-nuts-scroll-views)
 - [Table Views Indexing](http://www.raywenderlich.com/68149/video-tutorial-table-views-indexing)
+
 ## CollectionView
 - [UICollectionView](http://nshipster.com/uicollectionview/)
-## Text
-- [TextKit](http://www.raywenderlich.com/50151/text-kit-tutorial)
+
+## Typography
+[iOS Fonts](http://iosfonts.com)
+[Getting to Know TextKit - iOS 7 - objc.io issue #5](http://www.objc.io/issue-5/getting-to-know-textkit.html#fnref1)
+[Text Kit Tutorial in Swift - Ray Wenderlich](http://www.raywenderlich.com/77092/text-kit-tutorial-swift)
+[The Swift Programming Language: Strings and Characters](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/StringsAndCharacters.html)
+[About Text Handling in iOS](https://developer.apple.com/library/ios/documentation/StringsTextFonts/Conceptual/TextAndWebiPhoneOS/Introduction/Introduction.html)
+
+## Localization
 - [Internationalization](http://www.raywenderlich.com/64401/internationalization-tutorial-for-ios-2014)
 
 # Lighter View Controllers

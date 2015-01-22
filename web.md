@@ -39,9 +39,14 @@
 [Responsive Images Done Right: A Guide To <picture> And srcset | Smashing Magazine](http://www.smashingmagazine.com/2014/05/14/responsive-images-done-right-guide-picture-srcset/)
 
 ### SVG
+[How to Scale SVG | CSS-Tricks](http://css-tricks.com/scale-svg/)
 [SVG Artboard Sizing | CSS-Tricks](http://css-tricks.com/svg-artboard-sizing/)
 [SVG and Icon Fonts: The Future Of Iconography | Pencil Scoop | Web Design & Development](http://www.pencilscoop.com/2013/11/svg-and-icon-fonts-the-future-of-iconography/)
 [How to render SVG images in iphone without uiwebview? - Stack Overflow](http://stackoverflow.com/questions/6610419/how-to-render-svg-images-in-iphone-without-uiwebview)
 ### resources
 [Patternify | A CSS Pattern Generator](http://www.patternify.com/)
 [Font Awesome to PNG online generator](http://fa2png.io/)
+
+### CSS
+[15 Page Transitions Effects Tutorials in CSS3 and jQuery](http://smashinghub.com/15-page-transitions-effects-tutorials-in-css3-and-jquery.htm)
+[Sass: Syntactically Awesome Style Sheets](http://sass-lang.com/)

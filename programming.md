@@ -9,6 +9,7 @@
 ## vim
 [Timothée Poisot | Using Vim as a writing environment](http://timotheepoisot.fr/2014/01/01/vim-writing-environment/)
 [The History of Vim | Jovica Ilic](http://www.jovicailic.org/2014/06/the-history-of-vim/)
+[YBlog - Learn Vim Progressively](http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/)
 
 ## Markdown
 [Daring Fireball: Markdown](http://daringfireball.net/projects/markdown/)
