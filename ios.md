@@ -154,3 +154,17 @@
 * [Integrate Parse with Swift in iOS8 using CocoaPods - Shrikar Archak](http://shrikar.com/blog/2015/01/03/integrate-parse-with-swift-in-ios8-using-cocoapods/)
 * [How to disable ads!!!!!! (SpriteKit) : swift](http://www.reddit.com/r/swift/comments/2rf7x2/how_to_disable_ads_spritekit/)
 
+# Random Value
+[rand(3) / random(3) / arc4random(3) / et al. - NSHipster](http://nshipster.com/random/)
+
+# Misc Tips and Tricks
+[25 iOS App Performance Tips & Tricks - Ray Wenderlich](http://www.raywenderlich.com/31166/25-ios-app-performance-tips-tricks)
+## Control
+### CoreMotion
+[CMDeviceMotion - NSHipster](http://nshipster.com/cmdevicemotion/)
+
+## Appearance
+### UIMotionEffect
+[Introduction to UIMotionEffect and Subclassing UIMotionEffect](http://www.teehanlax.com/blog/introduction-to-uimotioneffect/)
+[View animation using UIMotionEffect | Corsarus](http://corsarus.com/2014/view-animation-using-uimotioneffect/)
+
